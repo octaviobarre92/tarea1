@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "homepage": "/login",
   "private": true,
-  "engines": {
-    "node": "17.3.0"
-  },
   "dependencies": { 
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
